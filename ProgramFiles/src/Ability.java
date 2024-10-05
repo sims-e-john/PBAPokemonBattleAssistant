@@ -1,18 +1,18 @@
 public class Ability {
-    static String name = "";
-    static String explanation = "";
-    static String effect = "";
+    String name = "";
+    String explanation = "";
+    String effect = "";
 
-    static String activationCondition = "";
+    String activationCondition = "";
 
-    static String[] statBoost = {};
-    static int statBoostAmount = 0;
+    String[] statBoost = {};
+    int statBoostAmount = 0;
 
-    static String[] statDrop = {};
-    static int statDropAmount = 0;
-    static String statDropTarget = "";
+    String[] statDrop = {};
+    int statDropAmount = 0;
+    String statDropTarget = "";
 
-    static boolean heals = false;
-    static int healAmount = 0;
-    static String healTarget = "";
+    boolean heals = false;
+    int healAmount = 0;
+    String healTarget = "";
 }

@@ -1,23 +1,23 @@
 public class Item {
-    static String name = "";
+    String name = "";
 
-    static int healthRestoration = 0;
-    static String healthRestorationCondition = "";
+    int healthRestoration = 0;
+    String healthRestorationCondition = "";
 
-    static int damageBoost = 0;
-    static String damageBoostCondition = "";
+    int damageBoost = 0;
+    String damageBoostCondition = "";
 
-    static boolean isChoice = false;
+    boolean isChoice = false;
 
-    static  String[] statBoost = {};
-    static int statBoostAmount = 0;
+    String[] statBoost = {};
+    int statBoostAmount = 0;
 
-    static int damage = 0;
-    static String damageTarget = "";
+    int damage = 0;
+    String damageTarget = "";
 
-    static String[] statusEffects = {};
-    static String statusEffectTarget = "";
+    String[] statusEffects = {};
+    String statusEffectTarget = "";
 
-    static String explanation = ""; ///what the user sees when selecting/hovering over an item
-    static String effect = ""; ///a note for me to know how to program it, a more detailed explanation on the functionality of the item
+    String explanation = ""; ///what the user sees when selecting/hovering over an item
+    String effect = ""; ///a note for me to know how to program it, a more detailed explanation on the functionality of the item
 }
