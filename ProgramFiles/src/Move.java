@@ -17,8 +17,11 @@ public class Move {
     public String[] statEffects;
     public int statDropAmount;
     public double healthRegen;
+    public String healTime;
+    public int hitsMin;
+    public int hitsMax;
 
-    Move(int power, String name, String moveType, String type, String damagingStat, String defenseStat, int accuracy, String[] misc, int priority, int pp, String targets, String explanation, double effectRate, double critRatio, String[] possibleEffects, String[] statEffects, int statDropAmount, double healthRegen) {
+    Move(int power, String name, String moveType, String type, String damagingStat, String defenseStat, int accuracy, String[] misc, int priority, int pp, String targets, String explanation, double effectRate, double critRatio, String[] possibleEffects, String[] statEffects, int statDropAmount, double healthRegen, String healTime, int hitsMin, int hitsMax) {
         this.power = power;
         this.name = name;
         this.moveType = moveType;
@@ -35,7 +38,10 @@ public class Move {
         this.critRatio = critRatio;
         this.possibleEffects = possibleEffects;
         this.statEffects = statEffects;
-        this.statDropAmount = statDrops;
+        this.statDropAmount = statDropAmount;
         this.healthRegen = healthRegen;
+        this.healTime = healTime;
+        this.hitsMin = hitsMin;
+        this.hitsMax = hitsMax;
     }
 }
