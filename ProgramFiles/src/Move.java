@@ -20,8 +20,9 @@ public class Move {
     public String healTime;
     public int hitsMin;
     public int hitsMax;
+    public double recoil;
 
-    Move(int power, String name, String moveType, String type, String damagingStat, String defenseStat, int accuracy, String[] misc, int priority, int pp, String targets, String explanation, double effectRate, double critRatio, String[] possibleEffects, String[] statEffects, int statDropAmount, double healthRegen, String healTime, int hitsMin, int hitsMax) {
+    Move(int power, String name, String moveType, String type, String damagingStat, String defenseStat, int accuracy, String[] misc, int priority, int pp, String targets, String explanation, double effectRate, double critRatio, String[] possibleEffects, String[] statEffects, int statDropAmount, double healthRegen, String healTime, int hitsMin, int hitsMax, int recoil) {
         this.power = power;
         this.name = name;
         this.moveType = moveType;
@@ -43,5 +44,6 @@ public class Move {
         this.healTime = healTime;
         this.hitsMin = hitsMin;
         this.hitsMax = hitsMax;
+        this.recoil = recoil;
     }
 }

@@ -33,7 +33,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Ivy Cudgel",
                 new Move(
@@ -59,7 +60,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Absorb",
                 new Move(
@@ -85,7 +87,8 @@ public class Database {
                         0.5, ///of damage dealt to target
                         "Damage",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Accelerock",
                 new Move(
@@ -111,7 +114,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Acid",
                 new Move(
@@ -137,7 +141,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Acid Armor",
                 new Move(
@@ -163,7 +168,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Acid Spray",
                 new Move(
@@ -189,7 +195,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Acrobatics",
                 new Move(
@@ -215,7 +222,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Acupressure",
                 new Move(
@@ -241,7 +249,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aerial Ace",
                 new Move(
@@ -267,7 +276,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aeroblast",
                 new Move(
@@ -293,7 +303,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("After You",
                 new Move(
@@ -319,7 +330,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Agility",
                 new Move(
@@ -345,7 +357,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Air Cutter",
                 new Move(
@@ -371,7 +384,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Air Slash",
                 new Move(
@@ -397,7 +411,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Alluring Voice",
                 new Move(
@@ -423,7 +438,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Ally Switch",
                 new Move(
@@ -449,7 +465,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Amnesia",
                 new Move(
@@ -475,7 +492,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Anchor Shot",
                 new Move(
@@ -501,7 +519,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Ancient Power",
                 new Move(
@@ -527,7 +546,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Apple Acid",
                 new Move(
@@ -553,7 +573,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aqua Cutter",
                 new Move(
@@ -579,7 +600,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aqua Jet",
                 new Move(
@@ -605,7 +627,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aqua Ring",
                 new Move(
@@ -631,7 +654,8 @@ public class Database {
                         0.0625, ///every turn
                         "Turn",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aqua Step",
                 new Move(
@@ -657,7 +681,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aqua Tail",
                 new Move(
@@ -683,7 +708,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Arm Thrust",
                 new Move(
@@ -709,7 +735,8 @@ public class Database {
                         0,
                         "",
                         2,
-                        5 ///37.5% for 2 and 3 hits, 12.5% for 5 and 5 hits
+                        5, ///37.5% for 2 and 3 hits, 12.5% for 5 and 5 hits
+                        0
                 ));
         moveDict.put("Armor Cannon",
                 new Move(
@@ -735,7 +762,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aromatic Mist",
                 new Move(
@@ -761,7 +789,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Assurance",
                 new Move(
@@ -787,7 +816,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Astonish",
                 new Move(
@@ -813,7 +843,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Astral Barrage",
                 new Move(
@@ -839,7 +870,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Attack Order",
                 new Move(
@@ -865,7 +897,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Attract",
                 new Move(
@@ -891,7 +924,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aura Sphere",
                 new Move(
@@ -917,7 +951,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aura Wheel",
                 new Move(
@@ -943,7 +978,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aurora Beam",
                 new Move(
@@ -969,7 +1005,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Aurora Veil",
                 new Move(
@@ -995,7 +1032,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Avalanche",
                 new Move(
@@ -1021,7 +1059,8 @@ public class Database {
                         0,
                         "",
                         1,
-                        1
+                        1,
+                        0
                 ));
         moveDict.put("Axe Kick",
                 new Move(
@@ -1047,7 +1086,278 @@ public class Database {
                         -.5,
                         "Miss",
                         1,
-                        1
+                        1,
+                        0
+                ));
+        moveDict.put("Baby-Doll Eyes",
+                new Move(
+                        0,
+                        "Baby-Doll Eyes",
+                        "St",
+                        "Fairy",
+                        "",
+                        "",
+                        100,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "Yes",
+                                "No", "No", "Yes", "Yes", "Yes"},
+                        1,
+                        30,
+                        "Single",
+                        "The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first.",
+                        1,
+                        0,
+                        new String[]{""},
+                        new String[]{"Atk"},
+                        -1,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Baneful Bunker", ///acts like protect, has a (1/3)^use-1 chance of failing in succession
+                new Move(
+                        0,
+                        "Baneful Bunker",
+                        "St",
+                        "Poison",
+                        "",
+                        "",
+                        101,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "No"},
+                        4,
+                        10,
+                        "Self",
+                        "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.",
+                        1,
+                        0,
+                        new String[]{"Poison"},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Barb Barrage",
+                new Move(
+                        60,
+                        "Barb Barrage",
+                        "P",
+                        "Poison",
+                        "Atk",
+                        "Def",
+                        100,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "Yes",
+                                "No", "No", "No", "Yes", "Yes"},
+                        0,
+                        10,
+                        "Single",
+                        "The user launches countless toxic barbs to inflict damage. This may also poison the target. This move's power is doubled if the target is already poisoned.",
+                        0.5,
+                        0.0417,
+                        new String[]{"Poison"},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Baton Pass",
+                new Move(
+                        0,
+                        "Baton Pass",
+                        "St",
+                        "Normal",
+                        "",
+                        "",
+                        101,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "Yes",
+                                "No", "No", "No", "No", "No"},
+                        0,
+                        40,
+                        "Self",
+                        "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+                        0,
+                        0,
+                        new String[]{""},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Beak Blast",
+                new Move(
+                        100,
+                        "Beak Blast",
+                        "P",
+                        "Flying",
+                        "Atk",
+                        "Def",
+                        100,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "Yes", "No", "No", "No",
+                                "No", "No", "No", "Yes", "No"},
+                        -3,
+                        15,
+                        "Single",
+                        "The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn.",
+                        0,
+                        0.0417,
+                        new String[]{"Burn"},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Beat Up",
+                new Move(
+                        1,
+                        "Beat Up",
+                        "P",
+                        "Dark",
+                        "Atk",
+                        "Def",
+                        100,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "Yes",
+                                "No", "No", "No", "Yes", "Yes"},
+                        0,
+                        10,
+                        "Single",
+                        "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+                        0,
+                        0.0417,
+                        new String[]{""},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        6,
+                        0
+                ));
+        moveDict.put("Behemoth Bash",
+                new Move(
+                        100,
+                        "Behemoth Bash",
+                        "P",
+                        "Steel",
+                        "Atk",
+                        "Def",
+                        100,
+                        new String[]{"Yes", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "No",
+                                "No", "No", "No", "Yes", "Yes"},
+                        0,
+                        5,
+                        "Single",
+                        "The user's body becomes a firm shield and slams into the target fiercely.",
+                        0,
+                        0.0417,
+                        new String[]{""},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Behemoth Blade",
+                new Move(
+                        100,
+                        "Behemoth Blade",
+                        "P",
+                        "Steel",
+                        "Atk",
+                        "Def",
+                        100,
+                        new String[]{"Yes", "No", "No", "No", "No",
+                                "Yes", "No", "No", "No", "No",
+                                "No", "No", "No", "Yes", "Yes"},
+                        0,
+                        5,
+                        "Single",
+                        "The user wields a large, powerful sword using its whole body and cuts the target in a vigorous attack.",
+                        0,
+                        0.0417,
+                        new String[]{""},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Belch",
+                new Move(
+                        120,
+                        "Belch",
+                        "S",
+                        "Poison",
+                        "SpA",
+                        "SpD",
+                        120,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "No",
+                                "No", "No", "No", "Yes", "No"},
+                        0,
+                        10,
+                        "Single",
+                        "The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.",
+                        0,
+                        0.0417,
+                        new String[]{""},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
+                ));
+        moveDict.put("Belch",
+                new Move(
+                        120,
+                        "Belch",
+                        "S",
+                        "Poison",
+                        "SpA",
+                        "SpD",
+                        120,
+                        new String[]{"No", "No", "No", "No", "No",
+                                "No", "No", "No", "No", "Yes",
+                                "No", "No", "No", "Yes", "Yes"},
+                        0,
+                        10,
+                        "Single",
+                        "",
+                        0,
+                        0.0417,
+                        new String[]{""},
+                        new String[]{""},
+                        0,
+                        0,
+                        "",
+                        1,
+                        1,
+                        0
                 ));
         return moveDict;
     }
